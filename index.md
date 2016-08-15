@@ -1,3 +1,5 @@
+[TOC]
+
 # Gluu Support User Guide
 The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answers for questions about Gluu Server operations, customizations, integrations and more. 
 
