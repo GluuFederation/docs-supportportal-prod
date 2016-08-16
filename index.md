@@ -10,7 +10,7 @@ There are five types of users on Gluu Support:
 
 1. Community Users: Any user without a paid Gluu support contract.  Community users can open public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance.
+2. Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance from Gluu support.
 
 3. Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).    
 
