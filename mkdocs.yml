@@ -1,0 +1,14 @@
+site_name: Gluu Support Portal Docs
+site_description: Documenation for the Gluu Support portal 
+#site_favicon: '/img/gluu_favicon.ico'
+copyright: Copyright &copy; 2016, Gluu, Inc.
+docs_dir: sources
+repo_url: https://github.com/GluuFederation/support-portal-docs
+theme: readthedocs
+theme_dir: ./theme/mkdocs/
+pages:
+
+- Home: 'index.md'
+- User Guide: 'user-guide/index.md'
+- Administaration Guide: 'admin-guide/index.md'
+- Developer Guide: 'developer-guide/index.md'
