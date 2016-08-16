@@ -3,14 +3,14 @@
 # Gluu Support User Guide
 The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answers for questions about Gluu Server operations, customizations, integrations and more. 
 
-Supported Gluu Customers, known as "Named Contacts", can open private tickets, set ticket priorities, upload files, collaborate with team members and partner organizations on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) and then [schedule a meeting](http://gluu.org/booking). 
+People from organizations that pay for Gluu support can open private tickets, set ticket priorities, upload files, collaborate with team members on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) then [schedule a meeting](http://gluu.org/booking). 
 
 # Roles
 There are five types of users on Gluu Support:   
 
-1. Community Users: Any user without a paid Gluu support contract.     
+1. Community Users: Any user without a paid Gluu support contract.  Community users can open public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract.
+2. Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance.
 
 3. Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).    
 
