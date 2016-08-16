@@ -93,7 +93,7 @@ Add or edit personal information about yourself in the My Profile section of the
 
 # Advanced Filters
 
-In all Dashboard ticket lists, you can toggle the "Show advanced filters" menu in order to refine and sort available tickets. Available filters include: 
+In all Dashboard ticket lists, you can toggle the "Show advanced filters" menu in order to refine and sort available tickets. The available filters include: 
 
  - Status
  - Priority
