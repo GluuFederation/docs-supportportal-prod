@@ -1,4 +1,4 @@
-# How to create a Minimal, Complete, and Verifiable example
+# How to create a Minimal, Complete, and Verifiable ticket
 
 When asking a question, you will get much better answers if you provide code people can use to reproduce the problem. That code should be…
 
