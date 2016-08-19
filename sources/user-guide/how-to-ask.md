@@ -4,7 +4,7 @@ Search, and research
 
 ...and keep track of what you find. Even if you don't find a useful answer elsewhere on the site, including links to related questions that haven't helped can help others in understanding how your question is different from the rest.
 
-##### Write a title that summarizes the specific problem
+#### Write a title that summarizes the specific problem
 
 The title is the first thing potential answerers will see, and if your title isn't interesting, they won't read the rest. So make it count:
 
@@ -14,11 +14,11 @@ Spelling, grammar and punctuation are important! Remember, this is the first par
 
 If you're having trouble summarizing the problem, write the title last - sometimes writing the rest of the question first can make it easier to describe the problem.
 
-##### Introduce the problem before you post any code
+#### Introduce the problem before you post any code
 
 In the body of your question, start by expanding on the summary you put in the title. Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself. The first paragraph in your question is the second thing most readers will see, so make it as engaging and informative as possible.
 
-##### Help others reproduce the problem
+#### Help others reproduce the problem
 
 Not all questions benefit from including code. But if your problem is with code you've written, you should include some. But don't just copy in your entire program! Not only is this likely to get you in trouble if you're posting your employer's code, it likely includes a lot of irrelevant details that readers will need to ignore when trying to reproduce the problem. Here are some guidelines:
 
