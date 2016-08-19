@@ -7,26 +7,42 @@ You must be signed in to submit support requests in Help Center.
 
 > Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account. 
 
-To submit a support request in Help Center
+#### To submit a support request
 
-Click New Ticket at the top of the page.
+1. Click New Ticket at the top of the page.
 
-Enter a subject and description of the problem.
-As you enter a subject, a list of suggested articles in the knowledge base appears. You can click one of the articles instead of submitting the request. Encouraging end-users to look for answers in the knowledge base can deflect tickets.
+2. Enter a subject and description of the problem.
 
-If you belong to multiple organizations, select the organization for this support request.
+3. As you enter a subject, a list of suggested articles in the knowledge base appears. You can click one of the articles instead of submitting the request. Encouraging end-users to look for answers in the knowledge base can deflect tickets.
 
-Add any attachments.
+4. If you belong to multiple organizations, select the organization for this support request.
 
-The file size limits are 1 MB for Essential, 7 MB for Team, and 20 MB for Professional and Enterprise.
+5. Add any attachments.The file size limits are 1 MB for Essential, 7 MB for Team, and 20 MB for Professional and Enterprise.
 
-To cc colleagues or partners, use a comma to separate each email address.
+6. To cc colleagues or partners, use a comma to separate each email address.
 
-Click Submit.
+7. Click Submit.
+
+> Note: Use our guide to learn [how to create a good ticket](../how-to-ask.md) on Gluu Support.
 
 ## Submitting a response to tickets
 
+Users can update an existing support request by commenting on a ticket. 
 
+#### To submit a response: 
+1. Navigate to the ticket you want to update.
+
+2. Insert your response in the text field.
+
+3. Review the ticket status as needed. If you want to keep the same status, use the`Inherit` value.
+
+4. Review the ticket priority and esscalate or de-escalate as needed.
+
+5. Review the ticket's privacy setting. If you'd like to keep the same privacy settings as the previous response, leave the value as `Inherit`.
+
+6. If you have supporting documents to include in your response, you can insert a link or attach a file (customers and partners only).
+
+7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
 ## Tracking your tickets
 
