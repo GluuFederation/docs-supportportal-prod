@@ -62,6 +62,20 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
 
+## Updating ticket status
+
+As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
+
+1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
+
+2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
+
+> Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
+
+## Creating a follow-up to a solved request
+
+You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
+
 # Alerts 
 
 ## To follow a discussion topic or post
