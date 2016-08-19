@@ -1,6 +1,6 @@
 # How to ask a good question on Gluu Support 
 
-Search, and research
+**Search, and research**
 
 ...and keep track of what you find. Even if you don't find a useful answer elsewhere on the site, including links to related questions that haven't helped can help others in understanding how your question is different from the rest.
 
