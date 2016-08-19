@@ -24,7 +24,7 @@ Not all questions benefit from including code. But if your problem is with code 
 
 If it is possible to create a live example of the problem that you can link to (for example, on http://sqlfiddle.com/ or http://jsbin.com/) then do so - but also include the code in your question itself. Not everyone can access external sites, and the links may break over time.
 
-##### Include all relevant logs 
+#### Include all relevant logs 
 
 When it comes to troubleshooting issues in the Gluu Server--from service hiccups to outages--your server logs are the best place to gather relevant information. The Gluu Server administrator can investigate logs in the oxTrust server GUI or directly with SSH access to the Gluu-Server container. Upload or provide a link with a copy of all relevant logs. Learn more about logs produced in the Gluu Server in our [documentation](https://gluu.org/docs/gluu-defaults/logs/). 
    
