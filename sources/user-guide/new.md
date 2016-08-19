@@ -24,11 +24,11 @@ To cc colleagues or partners, use a comma to separate each email address.
 
 Click Submit.
 
-## Responding to tickets
+## Submitting a response to tickets
 
 
 
-## Tracking Your Tickets
+## Tracking your tickets
 
 You can use the Support Portal Dashboard to track your support requests.
 
