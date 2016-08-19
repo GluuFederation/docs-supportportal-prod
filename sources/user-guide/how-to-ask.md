@@ -10,11 +10,9 @@ When asking a question, you will get much better answers if you provide code peo
 
 The more code there is to go through, the less likely people can find your problem. Streamline your example in one of two ways:
 
-Restart from scratch. Create a new program, adding in only what is needed to see the problem. This can be faster for vast systems where you think you already know the source of the problem. Also useful if you can't post the original code publicly for legal or ethical reasons.
-Divide and conquer. When you have a small amount of code, but the source of the problem is entirely unclear, start removing code a bit at a time until the problem disappears – then add the last part back.
-Minimal and readable
+Restart from scratch. Create a new program, adding in only what is needed to see the problem. This can be faster for vast systems where you think you already know the source of the problem. Also useful if you can't post the original code publicly for legal or ethical reasons.  
 
-Minimal does not mean terse – don't sacrifice communication to brevity. Use consistent naming and indentation, and include comments if needed to explain portions of the code. Most code editors have a shortcut for formatting code – find it, and use it! Also, don't use tabs – they may look good in your editor, but they'll just make a mess on Stack Overflow.
+Divide and conquer. When you have a small amount of code, but the source of the problem is entirely unclear, start removing code a bit at a time until the problem disappears – then add the last part back.  
 
 ## Complete
 
@@ -30,10 +28,9 @@ To help you solve your problem, others will need to verify that it exists:
 
 Describe the problem. "It doesn't work" is not a problem statement. Tell us what the expected behavior should be. Tell us what the exact wording of the error message is, and which line of code is producing it. Put a brief summary of the problem in the title of your question.
 
-Eliminate any issues that aren't relevant to the problem. If your question isn’t about a compiler error, ensure that there are no compile-time errors. Use a program such as JSLint to validate interpreted languages. Validate any HTML or XML.
+Eliminate any issues that aren't relevant to the problem. 
 
 Ensure that the example actually reproduces the problem! If you inadvertently fixed the problem while composing the example but didn't test it again, you'd want to know that before asking someone else to help.
 
 It might help to shut the system down and restart it, or transport the example to a fresh machine to confirm it really does provide an example of the problem.
 
-For more information on how to debug your program so you can create a minimal example, Eric Lippert has a fantastic blog post on the subject: How to debug small programs.
