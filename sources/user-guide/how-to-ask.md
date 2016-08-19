@@ -20,10 +20,9 @@ In the body of your question, start by expanding on the summary you put in the t
 
 #### Help others reproduce the problem
 
-Not all questions benefit from including code. But if your problem is with code you've written, you should include some. But don't just copy in your entire program! Not only is this likely to get you in trouble if you're posting your employer's code, it likely includes a lot of irrelevant details that readers will need to ignore when trying to reproduce the problem. Here are some guidelines:
-
-Include just enough code to allow others to reproduce the problem. For help with this, read How to create a Minimal, Complete, and Verifiable example.
-If it is possible to create a live example of the problem that you can link to (for example, on http://sqlfiddle.com/ or http://jsbin.com/) then do so - but also include the code in your question itself. Not everyone can access external sites, and the links may break over time.
+Not all questions benefit from including code. But if your problem is with code written by you or Gluu, you should include some. But don't just copy in your entire program! Not only is this likely to get you in trouble if you're posting your employer's code, it likely includes a lot of irrelevant details that readers will need to ignore when trying to reproduce the problem. 
+=
+If it is possible to create a live example of the problem that you can link to (for example, on [http://sqlfiddle.com/](http://sqlfiddle.com/) or [http://jsbin.com/](http://jsbin.com/)) then do so - but also include the code in your question itself. Not everyone can access external sites, and the links may break over time.
 
 ##### Include all relevant logs 
 
