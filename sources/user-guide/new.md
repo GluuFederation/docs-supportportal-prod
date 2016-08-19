@@ -5,7 +5,7 @@
 
 You must be signed in to submit support requests in Help Center.
 
-Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account. 
+> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account. 
 
 To submit a support request in Help Center
 
@@ -52,7 +52,7 @@ You can use the Support Portal Dashboard to track your support requests.
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
-Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
+> Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
 
 #### To track your organization's support requests (customers and parnters only)
 
