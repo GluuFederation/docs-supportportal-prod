@@ -1,22 +1,19 @@
 [TOC]
 
 # Gluu Support User Guide
-The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answers for questions about Gluu Server operations, customizations, integrations and more. 
 
-People from organizations that pay for Gluu support can open private tickets, set ticket priorities, upload files, collaborate with team members on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) then [schedule a meeting](http://gluu.org/booking). 
+# Roles 
+There are five types of users on Gluu Support:          
 
-# Roles
-There are five types of users on Gluu Support:   
+- Community Users: Any user without a paid Gluu support contract. Community users can open public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter.           
 
-1. Community Users: Any user without a paid Gluu support contract.  Community users can open public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
+- Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance from Gluu support.         
 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance from Gluu support.
+- Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).            
 
-3. Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).    
+- Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.        
 
-3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.    
-
-4. Staff: Gluu staff users.     
+- Staff: Gluu staff users.     
   
 # Homepage
 The homepage of the Gluu Support Portal organizes tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see the ticket creator, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will also include private tickets created by you or one of your organizational colleagues. 
@@ -33,6 +30,8 @@ Using the front-end search located on the homepage, you can find and review exis
 # Opening Tickets
 After successfuly registering an account you can open tickets on Gluu Support. Markdown formatting is supported. If you need to learn how to properly format in Markdown, you can review this [Markdown guide](http://dillinger.io/). Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
 
+Read our guide to learn [how to create a good question on Gluu Support](./how-to-ask.md).
+
 ## All users (required fields)
 
 - Gluu Server version
@@ -48,7 +47,7 @@ After successfuly registering an account you can open tickets on Gluu Support. M
 - Link URL: Can be used to provide a link to supporting documents, such as logs and screenshots.    
 - Send a copy to: Can be used to notify a colleague about your new ticket or response. 
 
-## Named, Partner, & Staff users (required fields)
+## Named Partner, & Staff users (required fields)
 
 - Status  
 - Priority  
