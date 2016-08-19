@@ -28,7 +28,12 @@ If it is possible to create a live example of the problem that you can link to (
 
 When it comes to troubleshooting issues in the Gluu Server--from service hiccups to outages--your server logs are the best place to gather relevant information. The Gluu Server administrator can investigate logs in the oxTrust server GUI or directly with SSH access to the Gluu-Server container. Upload or provide a link with a copy of all relevant logs. Learn more about logs produced in the Gluu Server in our [documentation](https://gluu.org/docs/gluu-defaults/logs/). 
    
-   
-   
+#### Include screenshots
+
+Including screenshots will help people better understand and diagnose the issue. If you are associated with a supported customer, you can upload screenshots directly on your ticket. If you are not able to upload directly to the ticket, use an external service and include links in your ticket. 
+
+#### Don't post to GitHub... 
+
+In order to keep issues centralized and organized, please report all bugs and issues on the support portal. If your issue is in fact the result of a bug in the code, we will move the issue to the proper GitHub repository. 
    
 *Thanks to Stack Overflow for creating great guidelines for creating support tickets!*
