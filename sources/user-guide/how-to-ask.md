@@ -34,6 +34,6 @@ Including screenshots will help people better understand and diagnose the issue.
 
 #### Don't post to GitHub... 
 
-In order to keep issues centralized and organized, please report all bugs and issues on the support portal. If your issue is in fact the result of a bug in the code, we will move the issue to the proper GitHub repository. 
+In order to keep issues centralized and organized, please report all bugs and issues on the support portal. If your issue is in fact the result of a bug in the code someone from Gluu will move the issue to the proper GitHub repository. 
    
 *Thanks to Stack Overflow for creating great guidelines for creating support tickets!*
