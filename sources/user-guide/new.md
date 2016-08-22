@@ -107,10 +107,12 @@ You can comment on or reopen a closed ticket, or create a new ticket that refere
 
 # Alerts 
 
-## To follow a discussion topic or post
+## Receive or discontinue ticket notifications 
+
+Each ticket is subject to its own notifications. If you are the ticket creator you are automatically subscribed to those notifications. If you wish to receive notifications, or stop receiving notifications for a specific ticket, navigate to the ticket in question and click the blue button that either says `Send me alerts` or `Remove me from alerts` depending on your existing alerts setting.  
 
 ## To manage the tickets you're following
 
-
+You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 
 
