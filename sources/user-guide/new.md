@@ -24,13 +24,11 @@ Adding a certified partner organization will enable all authorized contacts at t
 
 # Submitting and tracking support requests
 
-> Note: all ticket related forms support markdown formatting.
-
 ## Submitting a support request
 
 You must be signed in to submit support requests in Help Center.
 
-> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account. 
+> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
 
 #### To submit a support request
 
