@@ -83,7 +83,7 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 > Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
 
-#### To track your organization's support requests (customers and parnters only)
+#### To track your organization's support requests (customers and partners only)
 
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
 
