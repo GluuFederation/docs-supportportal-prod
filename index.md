@@ -4,7 +4,7 @@
 
 The Gluu Support Portal is designed to provide a community knowledge base as well as a support solution for Gluu customers and free open source users of the Gluu Server. You can browse public tickets for solutions or you can submit a request to the community if you can't find answers to your questions.
 
-*Please review our [ticket submission guide](https://github.com/GluuFederation/support-portal-docs/blob/master/sources/user-guide/how-to-ask.md) before opening a ticket.* 
+**Please review our [ticket submission guide](https://github.com/GluuFederation/support-portal-docs/blob/master/sources/user-guide/how-to-ask.md) before opening a ticket.** 
 
 If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
 
