@@ -88,7 +88,7 @@ As you work through issues you may need to update the status of the ticket. Ther
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/in-answer-update-status.png)
 
 > Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
-
+![left-hand-close](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-close.png)
 ## Creating a follow-up to a solved request
 
 You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
