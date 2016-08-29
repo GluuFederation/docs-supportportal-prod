@@ -15,6 +15,7 @@ You can use the front-end global search to find existing public (or your organiz
 ![front-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/front-end-search.png)
 ## Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
+<<<<<<< HEAD
 ![back-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/back-end-search.png)
 # Adding / Removing Named Contacts
 
@@ -26,13 +27,16 @@ If you are the lead point of contact at a Gluu customer organization, you have t
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
+=======
+
+>>>>>>> e947560ee1ba65f7c58522c90db3b1434c396db9
 # Submitting support requests
 
 ## Submitting a support request
 
 You must be signed in to submit support requests.
 
-> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
+> The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
 
 #### To submit a support request
 
@@ -154,3 +158,12 @@ Each ticket is subject to its own notifications. If you are the ticket creator y
 
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 
+# Adding / Removing Named Contacts
+
+If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
+
+# Adding / Removing Partner organizations
+
+If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
+
+Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 

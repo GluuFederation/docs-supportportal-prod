@@ -17,7 +17,7 @@ There are five types of users on Gluu Support:
   
 # Homepage
 The homepage of the Gluu Support Portal organizes tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see the ticket creator, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will also include private tickets created by you or one of your organizational colleagues. 
-![support-home](../img/support-home.jpg)
+
 # Registration
 Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that your user has the proper permissions. 
 
