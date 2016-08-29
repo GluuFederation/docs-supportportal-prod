@@ -75,7 +75,7 @@ Users can update an existing support request by commenting on a ticket.
 
 2. Insert your response in the text field.
 
-3. Review the ticket status as needed. If you want to keep the same status, use the`Inherit` value.
+3. Review the ticket status as needed. If you want to keep the same status, use the `Inherit` value.
 
 4. Review the ticket priority and esscalate or de-escalate as needed.
 
