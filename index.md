@@ -7,15 +7,15 @@ The Gluu Support Portal is designed to provide a community knowledge base as wel
 **Please review our [ticket submission guide](https://github.com/GluuFederation/support-portal-docs/blob/master/sources/user-guide/how-to-ask.md) before opening a ticket.** 
 
 If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
-
+![support-home](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/support-home.jpg)
 # Finding information in the Support Portal
 
 ## Front-end
 You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find existing relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
-
+![front-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/front-end-search.png)
 ## Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
-
+![back-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/back-end-search.png)
 # Adding / Removing Named Contacts
 
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
@@ -25,7 +25,7 @@ If you are the lead point of contact at a Gluu customer organization, you have t
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
-
+![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 # Submitting support requests
 
 ## Submitting a support request
@@ -90,8 +90,10 @@ Users can update an existing support request by commenting on a ticket.
 As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
 
 1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
+![left-hand-update-status.png](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-update-status.png)
 
 2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
+![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/in-answer-update-status.png)
 
 > Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
 
@@ -104,7 +106,7 @@ You can comment on or reopen a closed ticket, or create a new ticket that refere
 ## Tracking your tickets
 
 You can use the Support Portal Dashboard to track your support requests.
-
+![ticket-alerts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/ticket-alerts.png)
 #### To track your support requests:
 
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
@@ -127,6 +129,8 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 > Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
 
+![dashboard-company-tickets](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-company-tickets.png)
+
 #### To track your organization's support requests (customers and partners only)
 
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
@@ -139,6 +143,7 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
 
+![dashboard-advanced-filters](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-advanced-filters.png)
 # Alerts 
 
 ## Receive or discontinue ticket notifications 
