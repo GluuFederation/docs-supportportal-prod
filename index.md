@@ -22,7 +22,7 @@ As a registered user on the support portal you will have access to your own dash
 
 You must be signed in to submit support requests.
 
-> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
+> The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
 
 #### To submit a support request
 
