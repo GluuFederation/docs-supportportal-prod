@@ -7,7 +7,7 @@ The Gluu Support Portal is designed to provide a community knowledge base as wel
 **Please review our [ticket submission guide](https://github.com/GluuFederation/support-portal-docs/blob/master/sources/user-guide/how-to-ask.md) before opening a ticket.** 
 
 If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
-![support-home](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/support-home.jpg)
+
 # Finding information in the Support Portal
 
 ## Front-end
