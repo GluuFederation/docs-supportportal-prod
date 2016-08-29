@@ -15,7 +15,7 @@ You can use the front-end global search to find existing public (or your organiz
 ![front-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/front-end-search.png)
 ## Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
-<<<<<<< HEAD
+
 ![back-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/back-end-search.png)
 
 # Submitting support requests
