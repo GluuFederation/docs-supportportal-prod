@@ -27,9 +27,7 @@ If you are the lead point of contact at a Gluu customer organization, you have t
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-partner-orgs.png)
-=======
 
->>>>>>> e947560ee1ba65f7c58522c90db3b1434c396db9
 # Submitting support requests
 
 ## Submitting a support request
