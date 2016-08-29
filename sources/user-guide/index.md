@@ -17,7 +17,7 @@ There are five types of users on Gluu Support:
   
 # Homepage
 The homepage of the Gluu Support Portal organizes tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see the ticket creator, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will also include private tickets created by you or one of your organizational colleagues. 
-
+![support-home](../img/support-home.jpg)
 # Registration
 Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that your user has the proper permissions. 
 
@@ -26,7 +26,7 @@ The Gluu Support Portal utilizes our own Gluu Server for login. If you have any 
 
 # Front-End Search
 Using the front-end search located on the homepage, you can find and review existing public or private tickets that may be related to the issue or question for which you are seeking assistance. Searches can be performed against all available tickets in the database, or you can search for tickets within a specific category.
-
+![front-end-search](../img/front-end-search.png)
 # Opening Tickets
 After successfuly registering an account you can open tickets on Gluu Support. Markdown formatting is supported. If you need to learn how to properly format in Markdown, you can review this [Markdown guide](http://dillinger.io/). Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
 
@@ -69,7 +69,7 @@ Note: when adding a response, the default value for Privacy is `Inherit`. This s
 # Dashboard
 
 The dashboard allows you to manage personal and organizational tickets, support entitlements, alerts, and profile information. 
-
+![back-end-search](../img/back-end-search.png)
 ## My Tickets (All users)
 
 You can view, search and refine your open and closed tickets in the My Tickets section of the dashboard. 
@@ -85,7 +85,7 @@ In the Partner Companies section of the dashboard, users from a certified Gluu p
 ## My Alerts (All users)
 
 From the My Alerts section of the Dashboard, users can adjust whether or not they receive specific ticket notifications. In order to add or remove yourself from a tickets notifications, navigate to the ticket in question and click the blue button that will either say "Send me alerts" or "Remove me from alerts".  
-
+![dashborard-my-alerts](../img/dashboard-my-alerts.png)
 ## My Profile
 
 Add or edit personal information about yourself in the My Profile section of the dashboard. 
@@ -99,4 +99,4 @@ In all Dashboard ticket lists, you can toggle the "Show advanced filters" menu i
  - Created date
  - Category
  - Created by (not available for community users) 
- 
+![dashboard-advanced-filters](../img/dashboard-advanced-filters.png)
