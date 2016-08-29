@@ -13,6 +13,7 @@ If you are associated with a Gluu customer account, register using your organiza
 ## Front-end
 You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find existing relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
 ![front-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/front-end-search.png)
+
 ## Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
 
