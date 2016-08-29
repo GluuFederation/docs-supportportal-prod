@@ -39,7 +39,8 @@ You must be signed in to submit support requests.
 
 5. Enter a ticket title.
 
-6. Enter a ticket description. Note: the ticket editor supports markdown formatting. Use this [markdown formatting guide](http://dillinger.io/) if you are not familiar with markdown. 
+6. Enter a ticket description. 
+> The ticket editor supports markdown formatting. Use this [markdown formatting guide](http://dillinger.io/) if you are not familiar with markdown. 
 
 7. Choose a category for the ticket.  
 
@@ -57,7 +58,7 @@ You must be signed in to submit support requests.
 
 14. Submit your ticket. 
 
-> Note: Use our guide to learn [how to create a good ticket](../how-to-ask.md) on Gluu Support.
+> Use our guide to learn [how to create a good ticket](./how-to-ask.md) on Gluu Support.
 
 ## Submitting a response to tickets
 
@@ -121,7 +122,7 @@ You can use the Support Portal Dashboard to track your support requests.
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
-> Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
+> Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
 
 ![dashboard-company-tickets](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-company-tickets.png)
 
