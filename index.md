@@ -1,103 +1,129 @@
 [TOC]
 
-# Gluu Support User Guide
-The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answers for questions about Gluu Server operations, customizations, integrations and more. 
+# Support Portal User Guide
 
-People from organizations that pay for Gluu support can open private tickets, set ticket priorities, upload files, collaborate with team members on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) then [schedule a meeting](http://gluu.org/booking). 
+The Gluu Support Portal is designed to provide Gluu customers and free open source users with a complete self-service support option. You can get information from the knowledge base or turn to the community for answers. If you can't find an answer, you can submit a request to an agent.
 
-# Roles
-There are five types of users on Gluu Support:   
+If you are associated with a Gluu customer account, you can register using your organization specific email to unlock customer privileges, including the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with colleagues and certified Gluu partners on support requests. 
 
-1. Community Users: Any user without a paid Gluu support contract.  Community users can open public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
+# Finding information in the Support Portal
 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, set ticket priority, and expect faster responses and more detailed assistance from Gluu support.
+## Front-end
+You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a single list. You can sort the search results by any of the columns. 
 
-3. Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).    
+## Back-end 
+As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
 
-3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.    
+# Adding / Removing Named Contacts
 
-4. Staff: Gluu staff users.     
-  
-# Homepage
-The homepage of the Gluu Support Portal organizes tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see the ticket creator, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will also include private tickets created by you or one of your organizational colleagues. 
+If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased with Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
 
-# Registration
-Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that your user has the proper permissions. 
+# Adding / Removing Partner organizations
 
-# Login 
-The Gluu Support Portal utilizes our own Gluu Server for login. If you have any trouble logging in, please send an email to [support@gluu.org](mailto:support@gluu.org)
+If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
-# Front-End Search
-Using the front-end search located on the homepage, you can find and review existing public or private tickets that may be related to the issue or question for which you are seeking assistance. Searches can be performed against all available tickets in the database, or you can search for tickets within a specific category.
+Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
 
-# Opening Tickets
-After successfuly registering an account you can open tickets on Gluu Support. Markdown formatting is supported. If you need to learn how to properly format in Markdown, you can review this [Markdown guide](http://dillinger.io/). Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
+# Submitting and tracking support requests
 
-## All users (required fields)
+## Submitting a support request
 
-- Gluu Server version
-- Operating system in use
-- Confirm that 64-bit hardware is being used
-- Confirm that the server has at least 4GB RAM
-- Ticket title
-- Ticket description
-- Ticket category
+You must be signed in to submit support requests in Help Center.
 
-## All users (optional fields)
+> Note: The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
 
-- Link URL: Can be used to provide a link to supporting documents, such as logs and screenshots.    
-- Send a copy to: Can be used to notify a colleague about your new ticket or response. 
+#### To submit a support request
 
-## Named, Partner, & Staff users (required fields)
+1. Click New Ticket at the top of the page.
 
-- Status  
-- Priority  
-- Privacy: By default, all customer tickets are marked as private. This means only you and other named contacts from your organization (or an authorized partner organization) can see and interact with the ticket. If the ticket information is not sensitive and you think it may benefit the Gluu community, you can make the ticket publicly viewable. 
+2. Enter a subject and description of the problem.
 
-## Named, Partner, & Staff users (optional fields)
+3. As you enter a subject, a list of suggested articles in the knowledge base appears. You can click one of the articles instead of submitting the request. Encouraging end-users to look for answers in the knowledge base can deflect tickets.
 
-- Add up to five attachments 
+4. If you belong to multiple organizations, select the organization for this support request.
 
-## Staff & Partner users (optional fields)
+5. Add any attachments.The file size limits are 1 MB for Essential, 7 MB for Team, and 20 MB for Professional and Enterprise.
 
-- On behalf of: Using this field partners and staff can create a ticket on behalf of a supported organization. Partners can only create tickets on behalf of customer organizations that have authorized them to do so.  
+6. To cc colleagues or partners, use a comma to separate each email address.
 
-# Responding to Tickets
-Markdown formatting is supported. Before submitting your response, you can also adjust certain properties of the ticket such as the status, priority, and more. For information on any of the additional fields, please review the information above on [opening a ticket](#opening-tickets). 
+7. Click Submit.
 
-Note: when adding a response, the default value for Privacy is `Inherit`. This simply means that your post will inherit the previous post's privacy value. So if all previous posts in the ticket were marked `Private`, your new submission will also be private. And vice versa if all previous posts were marked `Public`. 
+> Note: Use our guide to learn [how to create a good ticket](../how-to-ask.md) on Gluu Support.
 
-# Dashboard
+## Submitting a response to tickets
 
-The dashboard allows you to manage personal and organizational tickets, support entitlements, alerts, and profile information. 
+Users can update an existing support request by commenting on a ticket. 
 
-## My Tickets (All users)
+#### To submit a response: 
+1. Navigate to the ticket you want to update.
 
-You can view, search and refine your open and closed tickets in the My Tickets section of the dashboard. 
+2. Insert your response in the text field.
 
-## Company Tickets (Named, Partner, & Staff users)
+3. Review the ticket status as needed. If you want to keep the same status, use the`Inherit` value.
 
-Here you can view, search and refine all tickets associated with your organization. This includes tickets opened by you and tickets opened by other named contacts at your organization and / or your partners organization (if applicable).  
+4. Review the ticket priority and esscalate or de-escalate as needed.
 
-## Partner Companies (Partner users only)
+5. Review the ticket's privacy setting. If you'd like to keep the same privacy settings as the previous response, leave the value as `Inherit`.
 
-In the Partner Companies section of the dashboard, users from a certified Gluu partner organization can view, search and refine tickets from users associated with a Gluu customer account. Before customer's private tickets are viewable to the partner organization, the customer's Admin Contact must authorize the partner organization's access via the Support Entitlements > Partners section of the Dashboard. 
+6. If you have supporting documents to include in your response, you can insert a link or attach a file (customers and partners only).
 
-## My Alerts (All users)
+7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
-From the My Alerts section of the Dashboard, users can adjust whether or not they receive specific ticket notifications. In order to add or remove yourself from a tickets notifications, navigate to the ticket in question and click the blue button that will either say "Send me alerts" or "Remove me from alerts".  
+## Tracking your tickets
 
-## My Profile
+You can use the Support Portal Dashboard to track your support requests.
 
-Add or edit personal information about yourself in the My Profile section of the dashboard. 
+#### To track your support requests:
 
-# Advanced Filters
+1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
 
-In all Dashboard ticket lists, you can toggle the "Show advanced filters" menu in order to refine and sort available tickets. The available filters include: 
+2. To see a filtered view of all your open requests, click the Open tickets link in the left-hand menu.
 
- - Status
- - Priority
- - Created date
- - Category
- - Created by (not available for community users) 
- 
+3. To see a filtered view of all your closed requests, click the Closed tickets link in the left-hand menu.
+
+4. To see details about a request, hover your mouse over the info icon next to your name. 
+
+5. To search your tickets, use the search bar in the right hand corner. 
+
+6. To sort tickets by one of the table categories, simply click the arrow once or twice.
+
+7. To further refine tickets, you can expand the advanced flters dropdown.
+
+## Tracking your organization's tickets
+
+If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
+
+> Note: Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
+
+#### To track your organization's support requests (customers and partners only)
+
+1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
+
+2. Using the left-hand menu, navigate to the "Company Tickets" section. 
+
+3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
+
+## Updating ticket status
+
+As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
+
+1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
+
+2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
+
+> Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
+
+## Creating a follow-up to a solved request
+
+You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
+
+# Alerts 
+
+## Receive or discontinue ticket notifications 
+
+Each ticket is subject to its own notifications. If you are the ticket creator you are automatically subscribed to those notifications. If you wish to receive notifications, or stop receiving notifications for a specific ticket, navigate to the ticket in question and click the blue button that either says `Send me alerts` or `Remove me from alerts` depending on your existing alerts setting.  
+
+## To manage the tickets you're following
+
+You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
+
