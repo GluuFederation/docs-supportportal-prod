@@ -26,7 +26,7 @@ If you are the lead point of contact at a Gluu customer organization, you have t
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
 
-# Submitting and tracking support requests
+# Submitting support requests
 
 ## Submitting a support request
 
@@ -85,6 +85,22 @@ Users can update an existing support request by commenting on a ticket.
 
 7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
+## Updating ticket status
+
+As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
+
+1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
+
+2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
+
+> Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
+
+## Creating a follow-up to a solved request
+
+You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
+
+# Tracking support requests
+
 ## Tracking your tickets
 
 You can use the Support Portal Dashboard to track your support requests.
@@ -119,19 +135,9 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
 
-## Updating ticket status
+## Advanced filters
 
-As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
-
-1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
-
-2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
-
-> Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
-
-## Creating a follow-up to a solved request
-
-You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
+In the Dashboard you can use advanced filters to further refine your organization's open and closed tickets. Advanced filters allow you to fliter tickets by one or more attributes, for instance, ticket status, priority, or date of creation. In order to use the advanced filters, navigate to your dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform the search.
 
 # Alerts 
 
