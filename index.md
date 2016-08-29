@@ -137,7 +137,7 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 ## Advanced filters
 
-In the Dashboard you can use advanced filters to further refine your organization's open and closed tickets. Advanced filters allow you to fliter your own tickets and your colleagues tickets (if applicable) by one or more attributes, for instance, by ticket status, priority, or date of creation. In order to use the advanced filters navigate to your dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform the search.
+Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
 
 # Alerts 
 
