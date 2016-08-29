@@ -38,17 +38,30 @@ You must be signed in to submit support requests in Help Center.
 
 1. Click New Ticket at the top of the page.
 
-2. Enter a subject and description of the problem.
+2. Select the version of the Gluu Server that your are currently using. 
 
-3. As you enter a subject, a list of suggested articles in the knowledge base appears. You can click one of the articles instead of submitting the request. Encouraging end-users to look for answers in the knowledge base can deflect tickets.
+3. Select the OS you are using. 
 
-4. If you belong to multiple organizations, select the organization for this support request.
+4. Confirm that you are using both 64-bit hardware and the server has at least 4GB of RAM (these are basic requirements for all Gluu Server deployments).  
 
-5. Add any attachments.The file size limits are 1 MB for Essential, 7 MB for Team, and 20 MB for Professional and Enterprise.
+5. Enter a ticket title.
 
-6. To cc colleagues or partners, use a comma to separate each email address.
+6. Enter a ticket description. Note: the ticket editor supports markdown formatting. Use this [markdown formatting guide](http://dillinger.io/) if you are not familiar with markdown. 
 
-7. Click Submit.
+7. Choose a category for the ticket.  
+
+8. Choose a status for the ticket.
+
+9. Choose a priority for the ticket. 
+
+10. Set the ticket privacy to either public or private. By default customer tickets are marked as private. 
+
+11. If you have supporting details or information hosted on another site, include a link to the supporting information. 
+
+12. To cc colleagues or partners, use a comma to separate each email address.
+
+13. Upload files for any additional supporting information.
+
 
 > Note: Use our guide to learn [how to create a good ticket](../how-to-ask.md) on Gluu Support.
 
