@@ -79,7 +79,7 @@ Users can update an existing support request by commenting on a ticket.
 
 ## Updating ticket status
 
-As you work through issues you may need to update the status of the ticket. There are two ways to update a ticket:
+As you work through issues you may need to update the status of the ticket. 
 
 1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
 ![left-hand-update-status.png](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-update-status.png)
@@ -87,7 +87,7 @@ As you work through issues you may need to update the status of the ticket. Ther
 2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/in-answer-update-status.png)
 
-> Note. If you simply wish to close your ticket, click the Close button in the left hand menu.  
+3. If you simply wish to close your ticket, click the Close button in the left hand menu.  
 ![left-hand-close](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-close.png)
 
 ## Creating a follow-up to a solved request
