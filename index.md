@@ -20,13 +20,13 @@ As a registered user on the support portal you will have access to your own dash
 # Adding / Removing Named Contacts
 
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
-
+![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 # Adding / Removing Partner organizations
 
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
-![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
+![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-partner-orgs.png)
 =======
 
 >>>>>>> e947560ee1ba65f7c58522c90db3b1434c396db9
