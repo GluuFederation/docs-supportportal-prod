@@ -137,6 +137,10 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
 
+## Tracking your customer's tickets (for partners only)
+
+If you're a member of a Gluu partner organization, and a Gluu customer has granted you access to their tickets, you can view their tickets in your dashboard. Once a Gluu customer grants your organization's access to their tickets, you'll see a section in the left-hand menu of your Dashboard that specifies "Partner Companies" with a specific link for each customer organization that has given your organization access to their tickets.
+
 ## Advanced filters
 
 Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
