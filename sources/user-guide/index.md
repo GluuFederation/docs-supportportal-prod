@@ -25,38 +25,41 @@ As a registered user on the support portal you will have access to your own dash
 
 You must be signed in to submit support requests.
 
-> The new ticket form might display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
+> The new ticket form may display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
 
 #### To submit a support request
 
-1. Click the New Ticket button at the top right of the page.
+1. New ticket: Click the New Ticket button at the top right of the page.
 
-2. Select which version of the Gluu Server you deployed. 
+2. Create ticket on behalf of: If you are associated with a certified Gluu Partner organization, and have been granted access to a Gluu customers support account, you can use this field to associate a new ticket with the appropriate customer organization and person. First select the customer account you are opening the ticket on behalf of, and then select the appropriate user to create the ticket for. 
 
-3. Select the OS you are using. 
+3. Gluu Server Version: Select which version of the Gluu Server you are inquiring about so that we can better understand the issue.
 
-4. Confirm that you are using 64-bit hardware and the server has at least 4GB of RAM (these are minimum requirements for all Gluu Server deployments).  
+4. Which OS are you using?: Select the appropriate OS to let us know more about the server you deployed Gluu on. 
 
-5. Enter a ticket title.
+5. Is it 64-bit hardware?: This is a minimum requirement for all Gluu Server deployments. Please confirm that your server is using 64-bit hardware. 
 
-6. Enter a ticket description. 
-> The ticket editor supports markdown formatting. Use this [markdown formatting guide](http://dillinger.io/) if you are not familiar with markdown. 
+6. Does the server have at least 4GB RAM? This is a minimum requirement for all Gluu Server deployments. Please confirm that your server has at least 4GB RAM. 
 
-7. Choose a category for the ticket.  
+7. Title: Enter a descriptive ticket title.
 
-8. Choose a status for the ticket.
+8. Description: Enter a description of your issue or question. If you're experiencing what you think may be a bug, please include all relevant details for us to reproduce. 
 
-9. Choose a priority for the ticket. 
+9. Category: Choose from one of the available categories to help organize your ticket.
 
-10. Set the ticket privacy to either public or private. By default tickets opened by customers and partners are marked as private. 
+10. Status: Let us know whether the ticket is new, in progress, or already pending input. 
 
-11. If you have any supporting details hosted on another site, like pastebin, include a link to the supporting information. 
+11. Priority: Let us know how urgent the ticket is. 
 
-12. To cc colleagues or partners, use a comma to separate each email address.
+12. Privacy: Set the ticket privacy to either public or private. If the ticket is private, only you, your colleagues, and any associated partners will be able to see the ticket. Public tickets are publicly viewable. By default new tickets created by customers and partners are marked as private. 
 
-13. Upload files for any additional supporting information.
+13. Link URL: If you have any supporting details hosted on another site, like pastebin, include a link to the supporting information.
 
-14. Submit your ticket. 
+14. Send copy to: To cc colleagues or partners, enter their email address here and use a comma to separate each email address.
+
+15. Attachment: Upload files for any additional supporting information like logs. 
+
+16. Submit your ticket!
 
 > Use our guide to learn [how to create a good ticket](./how-to-ask.md) on Gluu Support.
 
