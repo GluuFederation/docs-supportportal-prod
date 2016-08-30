@@ -162,6 +162,15 @@ You can view all the tickets that you are subscribed to from the Dashboard > My 
 
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
+
+There are two ways to remove existing Named Contacts from your organization:
+
+1) Make Basic User: this downgrades the user's status from Named User to regular User. The user will no longer be able to see and open tickets on the company's behalf, and will lose the ability to create private tickets, upload attachments, and set ticket priority.
+
+2) Dactivate Account: this will completely deactivate the users account. If the user tries to login to Gluu support using this account they will get an error message telling them their account has been deactivated. 
+
+Of the two options, deactivating the account is more severe and should be used should no longer have an account associated with the customer organization. 
+
 # Adding / Removing Partner organizations
 
 If you are the lead point of contact at a Gluu customer organization, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
