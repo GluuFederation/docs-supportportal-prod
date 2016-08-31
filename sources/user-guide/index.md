@@ -79,7 +79,7 @@ Users can update an existing support request by commenting on a ticket.
 
 7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
-### Updating ticket status
+## Updating ticket status
 
 As you work through issues you may need to update the status of the ticket. 
 
