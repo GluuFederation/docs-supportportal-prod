@@ -15,6 +15,6 @@ pages:
 - Home: 'index.md'
 - User Guide: 
     - 'Using Gluu Support Portal': 'user-guide/index.md'
-    - 'Creating A Good Ticket': 'user-guide/how-to-ask.md'
+    - 'How to Create a Good Ticket': 'user-guide/how-to-ask.md'
 - Administaration Guide: 'admin-guide/index.md'
 - Developer Guide: 'developer-guide/index.md'
