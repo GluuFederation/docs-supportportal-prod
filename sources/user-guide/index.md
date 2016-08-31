@@ -79,7 +79,7 @@ Users can update an existing support request by commenting on a ticket.
 
 7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
-## Updating ticket status
+## Updating Ticket Status
 
 As you work through issues you may need to update the status of the ticket. 
 
@@ -96,7 +96,7 @@ As you work through issues you may need to update the status of the ticket.
 
 You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
 
-## Tracking support requests
+## Tracking Tickets
 
 ### Tracking your tickets
 
@@ -134,7 +134,7 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 If you're a member of a Gluu partner organization, and a Gluu customer has granted you access to their tickets, you can view their tickets in your dashboard. Once a Gluu customer grants your organization's access to their tickets, you'll see a section in the left-hand menu of your Dashboard that specifies "Partner Companies" with a specific link for each customer organization that has given your organization access to their tickets.
 
-## Advanced filters
+## Advanced Filters
 
 Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
 
@@ -146,7 +146,7 @@ Each ticket is subject to its own notifications. If you are the ticket creator y
 
 ![ticket-alerts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/ticket-alerts.png)
 
-### To manage the tickets you're following
+### View all notifications you are subscribed to
 
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-my-alerts.png)
