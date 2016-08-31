@@ -8,26 +8,24 @@ The Gluu Support Portal is designed to provide a community knowledge base as wel
 
 If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
 
-# Finding information in the Support Portal
+## Search 
 
-## Front-end
+### Front-end
 You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find existing relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
 ![front-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/front-end-search.png)
 
-## Back-end 
+### Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
 
 ![back-end-search](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/back-end-search.png)
 
-# Submitting support requests
+## Submitting Tickets
 
-## Submitting a support request
+### Create a new ticket
 
 You must be signed in to submit support requests.
 
 > The new ticket form may display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
-
-#### To submit a support request
 
 1. New ticket: Click the New Ticket button at the top right of the page.
 
@@ -63,11 +61,10 @@ You must be signed in to submit support requests.
 
 > Use our guide to learn [how to create a good ticket](./how-to-ask.md) on Gluu Support.
 
-## Submitting a response to tickets
+### Respond to existing tickets
 
 Users can update an existing support request by commenting on a ticket. 
 
-#### To submit a response: 
 1. Navigate to the ticket you want to update.
 
 2. Insert your response in the text field.
@@ -82,7 +79,7 @@ Users can update an existing support request by commenting on a ticket.
 
 7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
-## Updating ticket status
+### Updating ticket status
 
 As you work through issues you may need to update the status of the ticket. 
 
@@ -95,7 +92,7 @@ As you work through issues you may need to update the status of the ticket.
 3. If you simply wish to close your ticket, click the Close button in the left hand menu.  
 ![left-hand-close](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-close.png)
 
-## Creating a follow-up to a solved request
+### Creating a follow-up to a solved request
 
 You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
 
@@ -104,8 +101,6 @@ You can comment on or reopen a closed ticket, or create a new ticket that refere
 ## Tracking your tickets
 
 You can use the Support Portal Dashboard to track your support requests.
-
-#### To track your support requests:
 
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
 
