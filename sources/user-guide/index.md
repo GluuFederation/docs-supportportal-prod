@@ -96,9 +96,9 @@ As you work through issues you may need to update the status of the ticket.
 
 You can comment on or reopen a closed ticket, or create a new ticket that references the former ticket. 
 
-# Tracking support requests
+## Tracking support requests
 
-## Tracking your tickets
+### Tracking your tickets
 
 You can use the Support Portal Dashboard to track your support requests.
 
@@ -116,7 +116,7 @@ You can use the Support Portal Dashboard to track your support requests.
 
 7. To further refine tickets, you can expand the advanced flters dropdown.
 
-## Tracking your organization's tickets
+### Tracking your organization's tickets (customers & partners only)
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
@@ -124,15 +124,13 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 ![dashboard-company-tickets](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-company-tickets.png)
 
-#### To track your organization's support requests (customers and partners only)
-
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
 
 2. Using the left-hand menu, navigate to the "Company Tickets" section. 
 
 3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
 
-## Tracking your customer's tickets (for partners only)
+### Tracking your customer's tickets (partners only)
 
 If you're a member of a Gluu partner organization, and a Gluu customer has granted you access to their tickets, you can view their tickets in your dashboard. Once a Gluu customer grants your organization's access to their tickets, you'll see a section in the left-hand menu of your Dashboard that specifies "Partner Companies" with a specific link for each customer organization that has given your organization access to their tickets.
 
@@ -141,19 +139,19 @@ If you're a member of a Gluu partner organization, and a Gluu customer has grant
 Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
 
 ![dashboard-advanced-filters](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-advanced-filters.png)
-# Alerts 
 
-## Receive or discontinue ticket notifications 
+## Notifications 
 
 Each ticket is subject to its own notifications. If you are the ticket creator you are automatically subscribed to those notifications. If you wish to receive notifications, or stop receiving notifications for a specific ticket, navigate to the ticket in question and click the blue button that either says `Send me alerts` or `Remove me from alerts` depending on your existing alerts setting.  
 
 ![ticket-alerts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/ticket-alerts.png)
 
-## To manage the tickets you're following
+### To manage the tickets you're following
 
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-my-alerts.png)
-# Adding / Removing Named Contacts
+
+## Adding / Removing Named Contacts
 
 If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
@@ -166,7 +164,7 @@ There are two ways to remove existing Named Contacts from your organization:
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
-# Adding / Removing Partner organizations
+## Adding / Removing Partner organizations
 
 If you are the Account Admin, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
