@@ -1,5 +1,3 @@
-[TOC]
-
 # Support Portal User Guide
 
 The Gluu Support Portal is designed to provide a community knowledge base as well as a support solution for Gluu customers and free open source users of the Gluu Server. You can browse public tickets for solutions or you can submit a request to the community if you can't find answers to your questions.
