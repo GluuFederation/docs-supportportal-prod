@@ -149,7 +149,7 @@ Each ticket is subject to its own notifications. If you are the ticket creator y
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-my-alerts.png)
 
-## Adding / Removing Named Contacts
+## Adding / Removing Named Contacts (customers & partners only)
 
 If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
@@ -162,7 +162,7 @@ There are two ways to remove existing Named Contacts from your organization:
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
-## Adding / Removing Partner organizations
+## Adding / Removing Partner organizations (customers & partners only)
 
 If you are the Account Admin, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
