@@ -25,8 +25,6 @@ Advanced filters allow you to filter your tickets and your colleagues tickets (i
 
 ## Submitting Tickets
 
-### Create a new ticket
-
 You must be signed in to submit support requests.
 
 > The new ticket form may display less fields than those described in this section. The fields you see will depend on whether you have a free, paid, or partner account.
@@ -65,7 +63,7 @@ You must be signed in to submit support requests.
 
 > Use our guide to learn [how to create a good ticket](./how-to-ask.md) on Gluu Support.
 
-### Respond to existing tickets
+## Responding to existing tickets
 
 Users can update an existing support request by commenting on a ticket. 
 
