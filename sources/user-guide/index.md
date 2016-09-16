@@ -171,3 +171,8 @@ If you are the Account Admin, you have the ability to add and remove certified G
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-partner-orgs.png)
+
+## Book Meetings
+*Customers & Partners only*
+
+Support and review calls are included with all VIP support contracts. To schedule a call with Gluu navigate to the Book Meetings section of your Gluu support dashboard. If you'd like help troubleshooting a specific implementation issue, book a support call. For high level security reviews, design discussions, etc., book a review call. 
