@@ -120,7 +120,9 @@ You can use the Support Portal Dashboard to track your support requests.
 
 7. To further refine tickets, you can expand the advanced flters dropdown.
 
-### Tracking your organization's tickets (customers & partners only)
+### Tracking your organization's tickets 
+
+*Customers & Partners only*
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
@@ -134,7 +136,8 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 3. To see details about tickets, and to search, sort, and filter tickets, follow the [above instructions](#to-track-your-support-requests). 
 
-### Tracking your customer's tickets (partners only)
+### Tracking your customer's tickets 
+*Partners only*
 
 If you're a member of a Gluu partner organization, and a Gluu customer has granted you access to their tickets, you can view their tickets in your dashboard. Once a Gluu customer grants your organization's access to their tickets, you'll see a section in the left-hand menu of your Dashboard that specifies "Partner Companies" with a specific link for each customer organization that has given your organization access to their tickets.
 
@@ -149,7 +152,8 @@ Each ticket is subject to its own notifications. If you are the ticket creator y
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-my-alerts.png)
 
-## Adding / Removing Named Contacts (customers & partners only)
+## Adding / Removing Named Contacts 
+*Customers & Partners only*
 
 If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
@@ -162,7 +166,8 @@ There are two ways to remove existing Named Contacts from your organization:
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
-## Adding / Removing Partner organizations (customers & partners only)
+## Adding / Removing Partner organizations 
+*Customers & Partners only*
 
 If you are the Account Admin, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
