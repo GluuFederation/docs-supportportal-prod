@@ -6,6 +6,16 @@ The Gluu Support Portal is designed to provide a community knowledge base as wel
 
 If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, set ticket priorities, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
 
+## User Roles and Privileges
+
+Basic User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
+
+Named User: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+
+Accound Admin: This is the primary contact from a customer organization. Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization and authorize people from certified Gluu Partner organization's to interact with their private tickets (if necessary).
+
+Partner: Users associated with certified Gluu service partners that are able to help Gluu customers with their Gluu Server operations, integrations, customizations, and more.        
+
 ## Search 
 
 ### Front-end
