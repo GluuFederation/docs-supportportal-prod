@@ -49,25 +49,23 @@ You must be signed in to submit support requests.
 
 6. Does the server have at least 4GB RAM? This is a minimum requirement for all Gluu Server deployments. Please confirm that your server has at least 4GB RAM. 
 
-7. Title: Enter a descriptive ticket title.
+7. Issue Type: Let us know what type of issue you are experiencing. 
 
-8. Description: Enter a description of your issue or question. If you're experiencing what you think may be a bug, please include all relevant details for us to reproduce. 
+8. Category: Categorize the issue as appropriate. 
 
-9. Category: Choose from one of the available categories to help organize your ticket.
+9. Title: Enter a descriptive ticket title.
 
-10. Status: Let us know whether the ticket is new, in progress, or already pending input. 
+10. Description: Enter a description of your issue or question. If you're experiencing what you think may be a bug, please include all relevant details for us to reproduce. 
 
-11. Priority: Let us know how urgent the ticket is. 
+11. Privacy: Set the ticket privacy to either public or private. If the ticket is private, only you, your colleagues, and any associated partners will be able to see the ticket. Public tickets are publicly viewable. By default new tickets created by customers and partners are marked as private. 
 
-12. Privacy: Set the ticket privacy to either public or private. If the ticket is private, only you, your colleagues, and any associated partners will be able to see the ticket. Public tickets are publicly viewable. By default new tickets created by customers and partners are marked as private. 
+12. Link URL: If you have any supporting details hosted on another site, like pastebin, include a link to the supporting information.
 
-13. Link URL: If you have any supporting details hosted on another site, like pastebin, include a link to the supporting information.
+13. Send copy to: To cc colleagues or partners, enter their email address here and use a comma to separate each email address.
 
-14. Send copy to: To cc colleagues or partners, enter their email address here and use a comma to separate each email address.
+14. Attachment: Upload files for any additional supporting information like logs. 
 
-15. Attachment: Upload files for any additional supporting information like logs. 
-
-16. Submit your ticket!
+15. Submit your ticket!
 
 > Use our guide to learn [how to create a good ticket](./how-to-ask.md) on Gluu Support.
 
@@ -79,27 +77,15 @@ Users can update an existing support request by commenting on a ticket.
 
 2. Insert your response in the text field.
 
-3. Review the ticket status as needed. If you want to keep the same status, use the `Inherit` value.
+3. Review the ticket's privacy setting. If you'd like to keep the same privacy settings as the previous response, leave the value as `Inherit`.
 
-4. Review the ticket priority and esscalate or de-escalate as needed.
+4. If you have supporting documents to include in your response, you can insert a link or attach a file (customers and partners only).
 
-5. Review the ticket's privacy setting. If you'd like to keep the same privacy settings as the previous response, leave the value as `Inherit`.
+5. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
 
-6. If you have supporting documents to include in your response, you can insert a link or attach a file (customers and partners only).
+## Closing Tickets 
 
-7. If you'd like one or more colleagues to be notified of your response, include their email(s) in the `Send copy to` field. Separate multiple multiple email addresses with a comma. 
-
-## Updating Ticket Status
-
-As you work through issues you may need to update the status of the ticket. 
-
-1. In the left hand window you can change the ticket status as needed. Be sure to save your edit before navigating to another page.
-![left-hand-update-status.png](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-update-status.png)
-
-2. During a response to a ticket you can update a ticket status. When you submit the response, the ticket's status will be updated as necessary.
-![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/in-answer-update-status.png)
-
-3. If you simply wish to close your ticket, click the Close button in the left hand menu.  
+If your issue has been resolved, you can close the ticket by clicking the Close button in the left hand menu.  
 ![left-hand-close](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/left-hand-close.png)
 
 ### Creating a follow-up to a solved request
