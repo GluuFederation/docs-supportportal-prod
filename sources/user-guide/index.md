@@ -118,7 +118,7 @@ You can use the Support Portal Dashboard to track your support requests.
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
-> Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts. Additional named contacts can be purchased for $199/user/month.
+> Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts.
 
 ![dashboard-company-tickets](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-company-tickets.png)
 
