@@ -1,6 +1,6 @@
 # Support Portal User Guide
 
-The Gluu Support Portal is designed to provide a community knowledge base as well as a support solution for Gluu customers. Anyone can browse public tickets for solutions or you can submit a request to the community if you can't find answers to your questions.
+The Gluu support portal is designed to be a community knowledge base as well as a support solution for Gluu customers. Anyone can browse public tickets for solutions or you can submit a request to the community if you can't find answers to your questions.
 
 **Please review our [ticket submission guide](./how-to-ask.md) before opening a ticket.** 
 
