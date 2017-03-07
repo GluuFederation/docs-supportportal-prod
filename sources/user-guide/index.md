@@ -158,6 +158,14 @@ There are two ways to remove existing Named Contacts from your organization:
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
+To manage named contacts for your organization, login to the support portal and visit [https://support.gluu.org/company-users/](https://support.gluu.org/company-users/).
+
+## Managing Admin Contacts
+
+Each customer organization should delegate one or more people to act as their Gluu Support account admin. If at any point in time the privilege needs to be shifted, or if your organization wants multiple people to have admin contact privileges, the existing admin contact can make any other named contact an account admin via the `https://support.gluu.org/company-users/` management interface. Simply click the "Make Account Admin" link for the appropriate user and they will have admin contact privileges upon their next fresh sign in. If the existing account admin should be removed, they should transfer privileges to another named contact and upon signing in, the new account admin can remove the existing admin contact's admin status, and then deactivate or downgrade that user as necessary. 
+
+![image](https://cloud.githubusercontent.com/assets/5271048/23666678/5346e028-0321-11e7-8fb3-503f24af2a74.png)
+
 ## Adding / Removing Partner organizations 
 *Customers & Partners only*
 
@@ -169,4 +177,4 @@ Adding a certified partner organization will enable all authorized contacts at t
 ## Book Meetings
 *Customers & Partners only*
 
-Support and review calls are included with all VIP support contracts. To schedule a call with Gluu navigate to the Book Meetings section of your Gluu support dashboard. If you'd like help troubleshooting a specific implementation issue, book a support call. For high level security reviews, design discussions, etc., book a review call. 
+Support and review calls are included with all VIP support contracts. To schedule a call with Gluu navigate to the Book Meetings section of your Gluu support dashboard. If you'd like help troubleshooting a specific implementation issue, book a support call. For high level security reviews, design discussions, etc., book a review call. To book meetings, login to the support portal and visit [https://support.gluu.org/company-booking/](https://support.gluu.org/company-booking/). 
