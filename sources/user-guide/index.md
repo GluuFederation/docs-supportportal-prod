@@ -178,3 +178,5 @@ Adding a certified partner organization will enable all authorized contacts at t
 *Customers & Partners only*
 
 Support and review calls are included with all VIP support contracts. To schedule a call with Gluu navigate to the Book Meetings section of your Gluu support dashboard. If you'd like help troubleshooting a specific implementation issue, book a support call. For high level security reviews, design discussions, etc., book a review call. To book meetings, login to the support portal and visit [https://support.gluu.org/company-booking/](https://support.gluu.org/company-booking/). 
+
+![image](https://cloud.githubusercontent.com/assets/5271048/23666967/0ee61cfe-0322-11e7-85eb-94c732c8f669.png)
