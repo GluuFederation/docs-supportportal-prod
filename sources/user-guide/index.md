@@ -10,7 +10,7 @@ If you are associated with a Gluu customer account, register using your organiza
 
 Basic User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
 
-Named User: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+Named User: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
 
 Accound Admin: This is the primary contact from a customer organization. Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization and authorize certified Gluu Partner organization's to interact with their private tickets (if necessary).
 
