@@ -152,7 +152,7 @@ If you are the lead point of contact at a Gluu customer organization (a.k.a. the
 
 There are two ways to remove existing Named Contacts from your organization:
 
-1) Make Basic User: this downgrades the user's status from Named User to regular User. The user will no longer be able to see and open tickets on the company's behalf, and will lose the ability to create private tickets, upload attachments, and set ticket priority. 
+1) Make Basic User: this downgrades the user's role from a Named User to a regular User. The user will no longer be able to see and open tickets on the company's behalf, and will lose the ability to create private tickets, upload attachments, and set ticket priority. 
 
 2) Deactivate Account: this will completely deactivate the users account. If the user tries to login to Gluu support using this account they will get an error message telling them their account has been deactivated. 
 
