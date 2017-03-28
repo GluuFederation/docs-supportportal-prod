@@ -152,7 +152,7 @@ If you are the lead point of contact at a Gluu customer organization (a.k.a. the
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 
 ### Adding Named Contacts
-In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click submit and the person will receive an email invitation to join your organization's account on Gluu Support. 
+In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click the `Submit` button and the person will receive an email invitation to join your organization's account on Gluu Support. 
 
 ### Removing Named Contacts
 There are two ways to remove existing Named Contacts from your organization:
