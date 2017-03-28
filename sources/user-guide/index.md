@@ -148,8 +148,13 @@ You can view all the tickets that you are subscribed to from the Dashboard > My 
 *Customers & Partners only*
 
 If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
+
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 
+### Adding Named Contacts
+In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click submit and the person will receive an email invitation to join your organization's account on Gluu Support. 
+
+### Removing Named Contacts
 There are two ways to remove existing Named Contacts from your organization:
 
 1) Make Basic User: this downgrades the user's role from a Named User to a regular User. The user will no longer be able to see and open tickets on the company's behalf, and will lose the ability to create private tickets, upload attachments, and set ticket priority. 
