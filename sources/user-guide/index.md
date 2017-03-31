@@ -10,7 +10,7 @@ If you are associated with a Gluu customer account, register using your organiza
 
 Basic User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
 
-Named User: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+Named Contact: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
 
 Accound Admin: This is the primary contact from a customer organization. Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization and authorize certified Gluu Partner organization's to interact with their private tickets (if necessary).
 
@@ -147,19 +147,27 @@ You can view all the tickets that you are subscribed to from the Dashboard > My 
 ## Managing Named Contacts 
 *Customers & Partners only*
 
-If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts are limited based on the support plan your organization has purchased from Gluu. For an overview of support entitlements, you can view the [Gluu support matrix](http://gluu.org/entitlements). 
+If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+
+Named contacts are limited based on the support plan your organization has purchased from Gluu. 
+
+|Basic Support|Premium Support|Enterprise Support|
+| ------------- |:-------------:| -----:|
+|4|6|8|
+
+For a complete overview of support entitlements see the [Gluu support matrix](http://gluu.org/entitlements). 
 
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 
 ### Adding Named Contacts
-In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click the `Submit` button and the person will receive an email invitation to join your organization's account on Gluu Support. 
+In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click the `Submit` button and the person will receive an email invitation to join your organization's account on Gluu Support. If the person already has an account on Gluu Support, their account will be upgraded upon their next login. 
 
 ### Removing Named Contacts
 There are two ways to remove existing Named Contacts from your organization:
 
-1) Make Basic User: this downgrades the user's role from a Named User to a regular User. The user will no longer be able to see and open tickets on the company's behalf, and will lose the ability to create private tickets, upload attachments, and set ticket priority. 
+1) Make Basic User: this downgrades the user's role from a Named User to a regular User. The user will no longer be able to see and open tickets on the company's behalf, their tickets will no longer be subject to the SLAs in the support contract, and they will lose the ability to create private tickets and upload attachments. They will go back to being a community user on Gluu Support. 
 
-2) Deactivate Account: this will completely deactivate the users account. If the user tries to login to Gluu support using this account they will get an error message telling them their account has been deactivated. 
+2) Deactivate Account: this will completely deactivate the users account. If the user tries to login to Gluu support using this account they will get a page that tells them their account has been deactivated. 
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
@@ -167,7 +175,13 @@ To manage named contacts for your organization, login to the support portal and 
 
 ## Managing Admin Contacts
 
-Each customer organization should delegate one or more people to act as their Gluu Support account admin. If at any point in time the privilege needs to be shifted, or if your organization wants multiple people to have admin contact privileges, the existing admin contact can make any other named contact an account admin via the `https://support.gluu.org/company-users/` management interface. Simply click the "Make Account Admin" link for the appropriate user and they will have admin contact privileges upon their next fresh sign in. If the existing account admin should be removed, they should transfer privileges to another named contact and upon signing in, the new account admin can remove the existing admin contact's admin status, and then deactivate or downgrade that user as necessary. 
+Each customer organization should delegate one or more people to act as their Gluu Support account admin. An accound admin has all the privileges of a named contact plus the ability to manage named contacts and authorize certified Gluu Partner organization's to interact with their private tickets (as necessary).
+
+If at any point in time the admin privilege needs to be shifted, or if your organization wants multiple people to have admin contact privileges, the existing admin contact can make any other named contact an account admin via the Mange Users page in the support dashboard. 
+
+Simply navigate to `https://support.gluu.org/company-users/`, and click the "Make Account Admin" link for the appropriate user. The next time they sign in they will have admin contact privileges. 
+
+If the existing account admin should be removed, they can transfer admin privileges to another named contact and the new account admin can then remove the users admin status, and deactivate or downgrade the user as necessary. 
 
 ![image](https://cloud.githubusercontent.com/assets/5271048/23666678/5346e028-0321-11e7-8fb3-503f24af2a74.png)
 
