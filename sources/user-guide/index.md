@@ -8,7 +8,7 @@ If you are associated with a Gluu customer account, register using your organiza
 
 ## User Roles and Privileges
 
-Basic User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely matter. 
+Community User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely manner. 
 
 Named Contact: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
 
