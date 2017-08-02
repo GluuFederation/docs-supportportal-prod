@@ -157,6 +157,8 @@ Named contacts are limited based on the support plan your organization has purch
 
 For a complete overview of support entitlements see the [Gluu support matrix](http://gluu.org/entitlements). 
 
+You can manage named contacts at: [https://support.gluu.org/dashboard/company-users/](https://support.gluu.org/dashboard/company-users/). 
+
 ![add-removing-named-contacts](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/add-removing-named-contacts.png)
 
 ### Adding Named Contacts
@@ -171,7 +173,7 @@ There are two ways to remove existing Named Contacts from your organization:
 
 Of the two options, deactivating the account is more severe and should be used when the user in question should no longer have an account associated with the customer organization. 
 
-To manage named contacts for your organization, login to the support portal and visit [https://support.gluu.org/company-users/](https://support.gluu.org/company-users/).
+To manage named contacts for your organization, login to the support portal and visit [https://support.gluu.org/dashboard/company-users/](https://support.gluu.org/dashboard/company-users/).
 
 ## Managing Admin Contacts
 
@@ -179,7 +181,7 @@ Each customer organization should delegate one or more people to act as their Gl
 
 If at any point in time the admin privilege needs to be shifted, or if your organization wants multiple people to have admin contact privileges, the existing admin contact can make any other named contact an account admin via the Mange Users page in the support dashboard. 
 
-Simply navigate to `https://support.gluu.org/company-users/`, and click the "Make Account Admin" link for the appropriate user. The next time they sign in they will have admin contact privileges. 
+Simply navigate to `https://support.gluu.org/dashboard/company-users/`, and click the "Make Account Admin" link for the appropriate user. The next time they sign in they will have admin contact privileges. 
 
 If the existing account admin should be removed, they can transfer admin privileges to another named contact and the new account admin can then remove the users admin status, and deactivate or downgrade the user as necessary. 
 
