@@ -1,18 +1,16 @@
 # Support Portal User Guide
 
-The Gluu support portal is designed to be a community knowledge base as well as a support solution for Gluu customers. Anyone can browse public tickets for solutions or you can submit a request to the community if you can't find answers to your questions.
+The Gluu support portal is designed to be a community knowledge base, as well as a support solution for Gluu customers. 
 
-**Please review our [ticket submission guide](./how-to-ask.md) before opening a ticket.** 
-
-If you are associated with a Gluu customer account, register using your organization specific email to unlock customer privileges such as the ability to enlist private support, attach files to tickets, and collaborate with your colleagues and certified Gluu partners on support requests. 
+Anyone can browse and open public tickets on Gluu Support. Gluu customers can create private tickets, share tickets with colleagues, and will receive priority assistance from Gluu's support staff. 
 
 ## User Roles and Privileges
 
-Community User: Any user without a paid Gluu support contract. Basic users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely manner. 
+Community: Community users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely manner. 
 
-Named Contact: Users associated with an organization that has paid for a Gluu support contract. Named users can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+Named Contact (customer): Named Contacts can open private tickets for their organization, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
 
-Accound Admin: This is the primary contact from a customer organization. Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization and authorize certified Gluu Partner organization's to interact with their private tickets (if necessary).
+Admin Contact (customer): Account Admins are primary contacts for the customer. They have all the privileges of a Named Contact, plus the ability to add and remove named contacts from their organization. In addition, they can authorize certified Gluu partner organization's to interact with Gluu support on their behalf (if necessary).
 
 ## Search 
 
