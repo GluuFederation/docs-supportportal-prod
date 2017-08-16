@@ -142,6 +142,13 @@ Each ticket is subject to its own notifications. If you are the ticket creator y
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
 ![image](https://raw.githubusercontent.com/GluuFederation/support-portal-docs/master/sources/img/dashboard-my-alerts.png)
 
+### Subscribe to all organization notifications
+
+If you are associated with a Gluu customer organization and would like to receive notifications for all tickets related to your organization, you can navigate to `https://support.gluu.org/dashboard/my-profile/` and tick the box for `Subscribe to notifications for tickets created by your colleagues`, as shown in the picture below. Click save to update your preferences. 
+
+![image](https://user-images.githubusercontent.com/5271048/29376382-fc78fe52-827d-11e7-915a-f5e6c0ef633c.png)
+
+
 ## Managing Named Contacts 
 *Customers & Partners only*
 
