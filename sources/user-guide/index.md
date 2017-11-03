@@ -156,9 +156,9 @@ If you are the lead point of contact at a Gluu customer organization (a.k.a. the
 
 Named contacts are limited based on the support plan your organization has purchased from Gluu. 
 
-|Basic Support|Premium Support|Enterprise Support|
-| ------------- |:-------------:| -----:|
-|4|6|8|
+|Basic Support|Standard Support|Premium Support|Enterprise Support|
+| ------------- |:-------------:|--------:| -----:|
+|2|4|6|8|
 
 For a complete overview of support entitlements see the [Gluu support matrix](http://gluu.org/entitlements). 
 
