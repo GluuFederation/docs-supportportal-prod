@@ -1,20 +1,34 @@
+# Project Information
 site_name: Gluu Support Portal Docs
-site_description: Documenation for the Gluu Support portal 
-site_favicon: '/img/gluu_favicon.ico'
-copyright: Copyright &copy; 2016, Gluu, Inc.
+site_description: Documentation for the Gluu Support portal 
+
+# Copyright
+copyright: Copyright &copy; 2019, Gluu, Inc.
+
+# Configuration
 docs_dir: sources
 repo_url: https://github.com/GluuFederation/support-portal-docs
-theme: readthedocs
-theme_dir: ./theme/mkdocs/
+repo_name: GluuFederation/support-portal-docs
+edit_uri: edit/master/sources
 
+# Theme
+theme: 
+    name: material
+    palette:
+        primary: 'green'
+        accent: 'green'
+    logo: 'gluu.jpg'
+    favicon: 'favicon.ico'
+
+# Extensions
 markdown_extensions:
 - admonition
 
-pages:
-
+# Navigation
+nav:
 - Home: 'index.md'
 - User Guide: 
     - 'Using Gluu Support Portal': 'user-guide/index.md'
     - 'How to Create a Good Ticket': 'user-guide/how-to-ask.md'
-# - Administaration Guide: 'admin-guide/index.md'
+# - Administration Guide: 'admin-guide/index.md'
 # - Developer Guide: 'developer-guide/index.md'
