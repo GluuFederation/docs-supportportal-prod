@@ -24,7 +24,7 @@ theme:
 markdown_extensions:
 - admonition
 - toc:
-    - permalink: '#'
+    permalink: '#'
 
 # Navigation
 nav:
