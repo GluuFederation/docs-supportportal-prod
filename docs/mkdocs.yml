@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2019, Gluu, Inc.
 docs_dir: sources
 repo_url: https://github.com/GluuFederation/support-portal-docs
 repo_name: GluuFederation/support-portal-docs
-edit_uri: edit/master/sources
+edit_uri: edit/master/docs/sources
 
 # Theme
 theme: 
