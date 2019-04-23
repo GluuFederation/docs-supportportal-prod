@@ -23,6 +23,8 @@ theme:
 # Extensions
 markdown_extensions:
 - admonition
+- toc:
+    - permalink: '#'
 
 # Navigation
 nav:
