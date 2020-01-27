@@ -16,18 +16,18 @@ Admin Contact (customer): Account Admins are primary contacts for the customer. 
 
 ### Front-end
 You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find existing relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
-![front-end-search](../img/front-end-search.png)
+[![front-end-search](../img/front-end-search.png)](../img/front-end-search.png)
 
 ### Back-end 
 As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
 
-![back-end-search](../img/back-end-search.png)
+[![back-end-search](../img/back-end-search.png)](../img/back-end-search.png)
 
 ## Advanced Filters
 
 Advanced filters allow you to filter your tickets and your colleagues tickets (if applicable) by one or more attributes, for instance by ticket status, priority, or date of creation. In order to use advanced filters navigate to your user dashboard and click the "Show advanced filters" menu bar. This will expand the menu and display available filters. Select the applicable filters, and click the "Filter" button to perform your search.
 
-![dashboard-advanced-filters](../img/dashboard-advanced-filters.png)
+[![dashboard-advanced-filters](../img/dashboard-advanced-filters.png)](../img/dashboard-advanced-filters.png)
 
 ## Submitting Tickets
 
@@ -84,7 +84,7 @@ Users can update an existing support request by commenting on a ticket.
 ## Closing Tickets 
 
 If your issue has been resolved, you can close the ticket by clicking the Close button in the left hand menu.  
-![left-hand-close](../img/left-hand-close.png)
+[![left-hand-close](../img/left-hand-close.png)](../img/left-hand-close.png)
 
 ### Creating a follow-up to a solved request
 
@@ -118,7 +118,7 @@ If you're a member of a Gluu customer organization, you can see tickets for all 
 
 > Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts.
 
-![dashboard-company-tickets](../img/dashboard-company-tickets.png)
+[![dashboard-company-tickets](../img/dashboard-company-tickets.png)](../img/dashboard-company-tickets.png)
 
 1. Click your profile icon on the upper-right side of any page, and then click My Dashobard. By default, the page displays all requests that you have submitted. 
 
@@ -135,18 +135,18 @@ If you're a member of a Gluu partner organization, and a Gluu customer has grant
 
 Each ticket is subject to its own notifications. If you are the ticket creator you are automatically subscribed to those notifications. If you wish to receive notifications, or stop receiving notifications for a specific ticket, navigate to the ticket in question and click the blue button that either says `Send me alerts` or `Remove me from alerts` depending on your existing alerts setting.  
 
-![ticket-alerts](../img/ticket-alerts.png)
+[![ticket-alerts](../img/ticket-alerts.png)](../img/ticket-alerts.png)
 
 ### View all notifications you are subscribed to
 
 You can view all the tickets that you are subscribed to from the Dashboard > My Alerts section. To remove yourself from a tickets notifications simply navigate to the ticket and click the `Remove me from alerts` button. 
-![image](../img/dashboard-my-alerts.png)
+[![image](../img/dashboard-my-alerts.png)](../img/dashboard-my-alerts.png)
 
 ### Subscribe to all organization notifications
 
 If you are associated with a Gluu customer organization and would like to receive notifications for all tickets related to your organization, you can navigate to `https://support.gluu.org/dashboard/my-profile/` and tick the box for `Subscribe to notifications for tickets created by your colleagues`, as shown in the picture below. Click save to update your preferences. 
 
-![image](../img/subscribe-all.png)
+[![image](../img/subscribe-all.png)](../img/subscribe-all.png)
 
 
 ## Managing Named Contacts 
@@ -164,7 +164,7 @@ For a complete overview of support entitlements see the [Gluu support matrix](ht
 
 You can manage named contacts at: [https://support.gluu.org/dashboard/company-users/](https://support.gluu.org/dashboard/company-users/). 
 
-![add-removing-named-contacts](../img/add-removing-named-contacts.png)
+[![add-removing-named-contacts](../img/add-removing-named-contacts.png)](../img/add-removing-named-contacts.png)
 
 ### Adding Named Contacts
 In order to add a colleague to the list of named contacts, simply enter the persons email in the `Invite via Email` field. Click the `Submit` button and the person will receive an email invitation to join your organization's account on Gluu Support. If the person already has an account on Gluu Support, their account will be upgraded upon their next login. 
@@ -190,7 +190,7 @@ Simply navigate to `https://support.gluu.org/dashboard/company-users/`, and clic
 
 If the existing account admin should be removed, they can transfer admin privileges to another named contact and the new account admin can then remove the users admin status, and deactivate or downgrade the user as necessary. 
 
-![image](../img/managing-admin.png)
+[![image](../img/managing-admin.png)](../img/managing-admin.png)
 
 ## Managing Partner organizations 
 *Customers & Partners only*
@@ -198,11 +198,11 @@ If the existing account admin should be removed, they can transfer admin privile
 If you are the Account Admin, you have the ability to add and remove certified Gluu partners from your account. Certified Gluu partners are organizations that have been vetted by Gluu, and engaged by your organization to assist with your Gluu server integrations and operations.
 
 Adding a certified partner organization will enable all authorized contacts at the partner organization to see your organizations private tickets, and to create tickets on behalf of you and your colleagues. This will allow you to more seamlessly work with partner organizations and Gluu support to resolve issues relating to your authentication and authorization service. 
-![image](../img/add-removing-partner-orgs.png)
+[![image](../img/add-removing-partner-orgs.png)](../img/add-removing-partner-orgs.png)
 
 ## Book Meetings
 *Customers & Partners only*
 
 Support and review calls are included with all VIP support contracts. To schedule a call with Gluu navigate to the Book Meetings section of your Gluu support dashboard. If you'd like help troubleshooting a specific implementation issue, book a support call. For high level security reviews, design discussions, etc., book a review call. To book meetings, login to the support portal and visit [https://support.gluu.org/company-booking/](https://support.gluu.org/company-booking/). 
 
-![image](../img/book-meetings.png)
+[![image](../img/book-meetings.png)](../img/book-meetings.png)
