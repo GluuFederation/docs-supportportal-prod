@@ -1,25 +1,23 @@
 # Support Portal User Guide
 
-The Gluu support portal is designed to be a community knowledge base, as well as a support solution for Gluu customers. 
-
-Anyone can browse and open public tickets on Gluu Support. Gluu customers can create private tickets, share tickets with colleagues, and will receive priority assistance from Gluu's support staff. 
+The Gluu support portal is a knowledgebase for both community and VIP customers. Anyone can browse and open public issues or tickets. We use both terms: "issues" and "tickets" interchangably on Gluu Support. What's the difference between community and VIP support? VIP customers can create private tickets, share tickets with colleagues, and will receive priority assistance from Gluu's support staff. If you think your organization might be interested to purchase a VIP support subscription, [Contact us!](https://www.gluu.org/company/contact-us/)
 
 ## User Roles and Privileges
 
-Community: Community users can open public tickets and browse existing public tickets. Responses from Gluu support are not guaranteed, but we do our best to respond in a timely manner. 
+Community: Community users can open and browse public issues. Community members or the Gluu team collaborate on responses. If you don't get a response to your question in a timely manner, you may need to consider procuring a VIP support contract.
 
-Named Contact (customer): Named Contacts can open private tickets for their organization, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
+Named Contact (customer): Named Contacts can open private tickets for their organization, share tickets with colleagues, schedule support meetings, and upload files to tickets. Issued raised by named contacts are guaranteed a response in the time specified by the entitlements matrix for their VIP contract.
 
-Admin Contact (customer): Account Admins are primary contacts for the customer. They have all the privileges of a Named Contact, plus the ability to add and remove named contacts from their organization. In addition, they can authorize certified Gluu partner organization's to interact with Gluu support on their behalf (if necessary).
+Admin Contact (customer): Account Admins are the primary contact for a VIP customer. They have all the privileges of a Named Contact, plus the ability to add and remove named contacts from their organization. In addition, admins can authorize certified Gluu partner organization's to interact with Gluu support on their behalf.
 
 ## Search 
 
 ### Front-end
-You can use the front-end global search to find existing public (or your organization's private) tickets that may be related to your question. As you type, predictive search results are displayed to help you find existing relevant content. If you are looking for a ticket regarding a specific topic, such as integrations, you can also select a category to search within to narrow down results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
+You can use the front-end global search to find your existing or public issues. As you type, predictive search results are displayed to help you find relevant content. If you are looking for an issue regarding a specific topic, you can also select a category to filter the results. Once you click the search button, results will be displayed in a list. You can sort the search results by any of the columns. 
 [![front-end-search](../img/front-end-search.png)](../img/front-end-search.png)
 
 ### Back-end 
-As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets created by (or on behalf of) yourself. If you are associated with a customer organization, you can also search, sort, and filter your colleagues public and private support requests.
+As a registered user on the support portal you will have access to your own dashboard. From within the dashboard you can search, sort, and filter tickets. If your organization has a VIP support contract, you can also search, sort, and filter your colleagues public and private support requests.
 
 [![back-end-search](../img/back-end-search.png)](../img/back-end-search.png)
 
@@ -116,7 +114,7 @@ You can use the Support Portal Dashboard to track your support requests.
 
 If you're a member of a Gluu customer organization, you can see tickets for all other members of that organization. 
 
-> Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. The Basic support plan includes 4 named contacts, Premium includes 6 named contacts, and Enterprise includes 8 named contacts.
+> Supported Gluu customers have a limited number of "named contacts" that can interact with Gluu staff for support. If you need additional named contacts, talk to your Gluu account manager.
 
 [![dashboard-company-tickets](../img/dashboard-company-tickets.png)](../img/dashboard-company-tickets.png)
 
@@ -155,12 +153,6 @@ If you are associated with a Gluu customer organization and would like to receiv
 If you are the lead point of contact at a Gluu customer organization (a.k.a. the Account Admin), you have the ability to add and remove your colleagues as supported contacts. Named contacts can open private tickets, share tickets with colleagues, schedule support and consultative calls, upload files to tickets, and expect faster responses and more detailed assistance from Gluu support.
 
 Named contacts are limited based on the support plan your organization has purchased from Gluu. 
-
-|Basic Support|Standard Support|Premium Support|Enterprise Support|
-| ------------- |:-------------:|--------:| -----:|
-|2|4|6|8|
-
-For a complete overview of support entitlements see the [Gluu support matrix](http://gluu.org/entitlements). 
 
 You can manage named contacts at: [https://support.gluu.org/dashboard/company-users/](https://support.gluu.org/dashboard/company-users/). 
 
